@@ -14,5 +14,7 @@ Entities :
 - Each OrderItem links to one Product
 - A Product belongs to one Category
 - Each Order has one Payment
-Files included
+  
+Files included:
+
  Task1(E-commerce).sql - SQL DDL to create the database of E-commerce system
